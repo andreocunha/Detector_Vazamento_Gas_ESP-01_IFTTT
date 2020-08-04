@@ -37,4 +37,6 @@ Por fim, vá para Home, Webhooks, e clique em Documentations. Lá terá a sua "k
 
 <br>
 <br>
-Feito com ♥ por André Oliveira Cunha :wave: [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
+Feito pelo grupo PET Engenharia de Computação - UFES<br/>
+
+André Oliveira Cunha - Linkedin:wave: [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
